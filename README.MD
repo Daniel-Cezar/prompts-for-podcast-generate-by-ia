@@ -8,7 +8,7 @@
     Baixe o Podcast:
 </p>
 <p align="center">
-(https://github.com/Daniel-Cezar/prompts-for-podcast-generate-by-ia/raw/main/output/podcast_editado_promptcast.MP3)
+(output/podcast_editado_ promptcast.MP3)
 </p>
 
 # Projeto Podcast Gerado por I.A.s
