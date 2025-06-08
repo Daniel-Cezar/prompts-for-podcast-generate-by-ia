@@ -6,14 +6,8 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    <a src="output/podcast_editado_ promptcast.MP3" Baixe o Podcast </a>
 </p>
-
-<div align="center">
-    <audio controls>
-<source src="output/podcast_editado_ promptcast.MP3" controls title="Podcast editado" type="audio/mpeg"></source>
-</audio>
-</div>
 
 # Projeto Podcast Gerado por I.A.s
 
