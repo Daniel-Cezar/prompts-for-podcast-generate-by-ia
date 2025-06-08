@@ -40,7 +40,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - [ChatGPT](https://chat.openai.com/) 
 - [Gemini](https://www.gemini.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [Audacity] (https://www.audacityteam.org/)
+- [Audacity](https://www.audacityteam.org/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
