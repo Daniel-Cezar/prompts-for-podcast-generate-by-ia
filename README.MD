@@ -8,7 +8,7 @@
     Baixe o Podcast:
 </p>
 <p align="center">
-(output/podcast_editado_ promptcast.MP3)
+(raw/main/output/podcast_editado_%20promptcast.MP3)
 </p>
 
 # Projeto Podcast Gerado por I.A.s
