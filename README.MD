@@ -11,7 +11,7 @@
 
 <div align="center">
     <audio controls>
-<source src="output/podcast_editado_ promptcast.MP3" controls title="Podcast editado" type="audio/mpeg">
+<source src="output/podcast_editado_ promptcast.MP3" controls title="Podcast editado" type="audio/mpeg"></source>
 </audio>
 </div>
 
