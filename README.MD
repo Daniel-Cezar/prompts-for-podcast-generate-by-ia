@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    [Baixe o Podcast](https://github.com/Daniel-Cezar/prompts-for-podcast-generate-by-ia/raw/refs/heads/main/output/podcast_editado_%20promptcast.MP3) 
+    [Download the podcast (MP3)](https://github.com/Daniel-Cezar/prompts-for-podcast-generate-by-ia/raw/main/output/podcast_editado_%20promptcast.MP3) 
 </p>
 
 # Projeto Podcast Gerado por I.A.s
