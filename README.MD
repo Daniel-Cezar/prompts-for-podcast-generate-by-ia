@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    <a src="output/podcast_editado_ promptcast.MP3" Baixe o Podcast </a>
+    [Baixe o Podcast](https://github.com/Daniel-Cezar/prompts-for-podcast-generate-by-ia/raw/refs/heads/main/output/podcast_editado_%20promptcast.MP3) 
 </p>
 
 # Projeto Podcast Gerado por I.A.s
