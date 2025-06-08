@@ -40,6 +40,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - [ChatGPT](https://chat.openai.com/) 
 - [Gemini](https://www.gemini.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
+- [Audacity] (https://www.audacityteam.org/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
@@ -47,7 +48,8 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Roteiro gerado via chatgpt e Gemini
 - Audio gerado pela elevenLabs
 - Gemini Para gerar a capa
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Audacity para tratar audio
+- Capcut para adicionar sons de fundo
 
 ## 📚 Materiais
 
